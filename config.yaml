@@ -39,7 +39,7 @@ catalogs:
     org: tektoncd
     type: community
     provider: github
-    url: https://github.com/tektoncd/catalog
+    url: https://github.com/sanskruti1098/catalog
     revision: main
 
 scopes:
